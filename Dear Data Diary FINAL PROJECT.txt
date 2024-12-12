@@ -2,4 +2,7 @@ GitHub Link:
 https://github.com/Gabriella1001/Dear-Data-Diary-Project.git
 
 Project description: 
-This is a visual representation of who I ate lunch with throughout the week. Each section of overlapping/separate shapes represents a different day. The triangle represents immediate family members (including myself), the square represents extended family (EF), the circle represents guests, the oval represents me eating out at another family’s home and the rectangle represents me eating at university. The line under each day represents a rough guide as to how long the meal was. This data can be interacted with by pressing on the shape to see who it represents. 
+This is a visual representation of who I ate lunch with throughout the week. Each section of overlapping/separate shapes represents a different day. 
+The triangle represents immediate family members (including myself), the square represents extended family (EF), the circle represents guests, the oval
+represents me eating out at another family’s home and the rectangle represents me eating at university. 
+The line under each day represents a rough guide as to how long the meal was. This data can be interacted with by pressing on the shape to see who it represents. 
