@@ -1,5 +1,5 @@
 GitHub Link:
-https://github.com/Gabriella1001/Dear-Data-Diary-Project.git
+https://github.com/Gabriella1001/Dear-Data-Diary
 
 Project description: 
 This is a visual representation of who I ate lunch with throughout the week. Each section of overlapping/separate shapes represents a different day. 
